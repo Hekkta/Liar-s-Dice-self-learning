@@ -8,4 +8,4 @@ Even though this is a very simple game it's not clear who has the advantage or e
 
 I let the program learn from 100 million games which took about 1.5 hours and then had it play another million while keeping tally of the wins.
 
-The player who went second had an advantage of about 1%, so it was a close call as suspected.
+The player who went second had an advantage of about 1%, so it was a close call in the end.
